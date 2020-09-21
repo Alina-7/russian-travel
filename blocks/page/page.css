@@ -1,29 +1,23 @@
-
-.root {
-    background-color: #2a2c2f;
-    margin:0 auto;
+.page {
     width:100%;
     max-width: 1280px;
-    min-width: 320px;
-    
+    font-family: "Inter-Regular", "Arial", sans-serif;
 }
 
 @media screen and (max-width: 1279px) {
-.root {
-    max-width:1024px;
-    
-}
+    .page {
+        max-width: 1024px;
+    }
 }
 
 @media screen and (max-width: 1023px) {
-    .root {
+    .page {
         max-width: 768px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .root {
+    .page {
         width: 320px;
     }
 }
-

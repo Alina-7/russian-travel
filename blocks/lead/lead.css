@@ -1,6 +1,7 @@
 .lead {
     margin: 0 auto;
     max-width: 984px;
+    font-family: "Inter-Regular";
 }
 
 @media screen and (max-width: 1279px) {
