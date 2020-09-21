@@ -5,7 +5,8 @@
     color: #FFFFFF;
     margin: 0;
     padding-bottom: 0%;
-    font-family: "Inter-Black", "Arial", sans-serif;
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: 900;
 }
 
 @media screen and (max-width: 1023px) {
@@ -19,5 +20,6 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
+        margin-left: 16px;
     }
 }

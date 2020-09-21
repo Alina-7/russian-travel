@@ -18,4 +18,4 @@
 * HTML 5.0.;
 * CSS3.0;
 
-Ссылка на проект на  GitHub: https://github.com/Alina-7/russian-travel
+Ссылка на проект на  GitHub: https://github.com/Alina-7/russian-travel.git

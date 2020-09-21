@@ -1,0 +1,7 @@
+.header__lang-nav {
+    display: flex;
+    text-align: right ;
+    margin-left:18px;
+    text-decoration: none;
+    list-style: none; 
+}

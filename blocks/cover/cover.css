@@ -6,7 +6,8 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    font-family: "Inter-Regular", "Arial", sans-serif;
+    font-family: "Inter", "Arial", sans-serif;
+    font-weight: normal;
     max-width: 1184px;
     width: 100%;
    position: relative;
